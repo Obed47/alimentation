@@ -1,0 +1,194 @@
+[
+  {
+    "bmiValue": 17.5,
+    "date": "2025-02-18",
+    "comment": "Underweight",
+    "advice": "Increase your calorie intake with nutritious foods and consider strength training."
+  },
+  {
+    "bmiValue": 22.3,
+    "date": "2025-02-17",
+    "comment": "Normal",
+    "advice": "Maintain your current lifestyle with a balanced diet and regular exercise."
+  },
+  {
+    "bmiValue": 28.4,
+    "date": "2025-02-16",
+    "comment": "Overweight",
+    "advice": "Incorporate more physical activity and focus on a healthy diet."
+  },
+  {
+    "bmiValue": 18.9,
+    "date": "2025-02-15",
+    "comment": "Normal",
+    "advice": "Great job! Keep up with your healthy habits."
+  },
+  {
+    "bmiValue": 30.2,
+    "date": "2025-02-14",
+    "comment": "Overweight",
+    "advice": "Consider portion control and regular workouts to improve your BMI."
+  },
+  {
+    "bmiValue": 16.8,
+    "date": "2025-02-13",
+    "comment": "Underweight",
+    "advice": "Increase your intake of protein and healthy fats to gain weight safely."
+  },
+  {
+    "bmiValue": 24.5,
+    "date": "2025-02-12",
+    "comment": "Normal",
+    "advice": "You're in a good range! Keep eating balanced meals and stay active."
+  },
+  {
+    "bmiValue": 29.0,
+    "date": "2025-02-11",
+    "comment": "Overweight",
+    "advice": "Try reducing processed foods and increase your physical activity."
+  },
+  {
+    "bmiValue": 21.2,
+    "date": "2025-02-10",
+    "comment": "Normal",
+    "advice": "You're doing great! Maintain a good mix of exercise and diet."
+  },
+  {
+    "bmiValue": 19.4,
+    "date": "2025-02-09",
+    "comment": "Normal",
+    "advice": "Stay consistent with your healthy lifestyle choices."
+  },
+  {
+    "bmiValue": 15.6,
+    "date": "2025-02-08",
+    "comment": "Underweight",
+    "advice": "Consult a nutritionist to help you achieve a healthier weight."
+  },
+  {
+    "bmiValue": 31.1,
+    "date": "2025-02-07",
+    "comment": "Overweight",
+    "advice": "Increase your daily activity level and eat more fiber-rich foods."
+  },
+  {
+    "bmiValue": 20.7,
+    "date": "2025-02-06",
+    "comment": "Normal",
+    "advice": "You're on the right track! Keep up your good habits."
+  },
+  {
+    "bmiValue": 26.5,
+    "date": "2025-02-05",
+    "comment": "Overweight",
+    "advice": "Consider a combination of cardio and strength training to stay fit."
+  },
+  {
+    "bmiValue": 18.1,
+    "date": "2025-02-04",
+    "comment": "Underweight",
+    "advice": "Try adding healthy snacks between meals to boost your calorie intake."
+  },
+  {
+    "bmiValue": 23.9,
+    "date": "2025-02-03",
+    "comment": "Normal",
+    "advice": "Keep focusing on whole foods and staying active."
+  },
+  {
+    "bmiValue": 32.4,
+    "date": "2025-02-02",
+    "comment": "Overweight",
+    "advice": "Monitor your portion sizes and focus on nutrient-dense foods."
+  },
+  {
+    "bmiValue": 16.5,
+    "date": "2025-02-01",
+    "comment": "Underweight",
+    "advice": "Increase protein and carbohydrate intake to help gain weight."
+  },
+  {
+    "bmiValue": 27.3,
+    "date": "2025-01-31",
+    "comment": "Overweight",
+    "advice": "Engage in regular exercise and limit sugary foods."
+  },
+  {
+    "bmiValue": 22.8,
+    "date": "2025-01-30",
+    "comment": "Normal",
+    "advice": "Maintain your current routine and continue making healthy choices."
+  },
+  {
+    "bmiValue": 18.4,
+    "date": "2025-01-29",
+    "comment": "Underweight",
+    "advice": "Eat more frequently and add healthy fats to your diet."
+  },
+  {
+    "bmiValue": 30.7,
+    "date": "2025-01-28",
+    "comment": "Overweight",
+    "advice": "Reduce high-calorie foods and incorporate more movement into your day."
+  },
+  {
+    "bmiValue": 21.5,
+    "date": "2025-01-27",
+    "comment": "Normal",
+    "advice": "Keep up your healthy eating habits and stay active."
+  },
+  {
+    "bmiValue": 19.9,
+    "date": "2025-01-26",
+    "comment": "Normal",
+    "advice": "You're in a good range! Stay consistent with your lifestyle choices."
+  },
+  {
+    "bmiValue": 14.8,
+    "date": "2025-01-25",
+    "comment": "Underweight",
+    "advice": "Consider increasing protein intake and resistance training."
+  },
+  {
+    "bmiValue": 34.1,
+    "date": "2025-01-24",
+    "comment": "Overweight",
+    "advice": "Work with a dietitian to create a sustainable weight management plan."
+  },
+  {
+    "bmiValue": 25.0,
+    "date": "2025-01-23",
+    "comment": "Normal",
+    "advice": "Maintain a balance of exercise and healthy nutrition."
+  },
+  {
+    "bmiValue": 28.8,
+    "date": "2025-01-22",
+    "comment": "Overweight",
+    "advice": "Try meal planning to ensure you eat healthier foods."
+  },
+  {
+    "bmiValue": 17.0,
+    "date": "2025-01-21",
+    "comment": "Underweight",
+    "advice": "Focus on nutritious calorie-dense foods to gain weight."
+  },
+  {
+    "bmiValue": 26.1,
+    "date": "2025-01-20",
+    "comment": "Overweight",
+    "advice": "Monitor your sugar intake and stay hydrated."
+  },
+  {
+    "bmiValue": 22.0,
+    "date": "2025-01-19",
+    "comment": "Normal",
+    "advice": "You're in a great spot! Keep moving and eating well."
+  },
+  {
+    "bmiValue": 19.1,
+    "date": "2025-01-18",
+    "comment": "Normal",
+    "advice": "Great work! Stay mindful of your eating and exercise patterns."
+  }
+]
