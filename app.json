@@ -1,5 +1,13 @@
 {
   "expo": {
+    "plugins": [
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps._some_id_here_"
+        }
+      ]
+    ],
     "name": "alimentation",
     "slug": "alimentation",
     "version": "1.0.0",
