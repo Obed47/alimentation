@@ -4,6 +4,8 @@ import {
   TextInput,
   TouchableOpacity,
   View,
+  KeyboardAvoidingView,
+  Platform,
 } from "react-native";
 import { React, useState, useEffect } from "react";
 import animation from "../assets/animation1.json";
@@ -11,7 +13,6 @@ import LottieView from "lottie-react-native";
 const Homepage = () => {
   const [weight, setWeight] = useState(0);
   const [height, setHeight] = useState(0);
-
   return (
     <View style={styles.container}>
       <View>
